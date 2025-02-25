@@ -30,3 +30,12 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/sql-for-data-analysis-22645200?dApp=59033956&leis=LAA
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHW625ALPsQSQ/learning-public-crop_288_512/0/1689272470053?e=2147483647&v=beta&t=m-nlhw9I-NHTiW837dreat8J-H8Hhzrqv_bDBN3edVs
+
+## <p align="center">👥 Contributor 👇</p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/18465236-7e1c-486b-bcf3-346e7e33072f" alt="Suni Rajpoot" width="100" height="100"></p>
+<p align="center">Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a></p>
+
+<p align="center">📩 Contact for queries, suggestions, or collaborations, feel free to reach out: 👉👉  <a href="https://linkedin.com/in/sunilmbaedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilmbaedu" height="17" width="17" /></a></p>
+
+
